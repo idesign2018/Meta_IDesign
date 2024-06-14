@@ -1,1 +1,1 @@
-# 'idesign'公共资源分享
+# idesign公共资源分享
