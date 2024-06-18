@@ -7,7 +7,8 @@
 <br>
 
 # 赞助
-<table style="border: 1px solid #9FA0A0; border-collapse: collapse; width: 50%;">
+单击放大图片扫码
+<table style="border: 1px solid #9FA0A0; border-collapse: collapse; width: auto;">
     <tr>
       <th style="border: 1px solid #9FA0A0; padding: 0; background-color: #000000; text-align: center; height: auto; width: auto;">
         <a href="https://discord.gg/ArErrjXT53" rel="noopener noreferrer">
