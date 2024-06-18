@@ -6,7 +6,7 @@
 
 <br>
 
-# 赞助
+# 我的社交媒体
 单击放大图片扫码
 <table style="border: 1px solid #9FA0A0; border-collapse: collapse; width: auto;">
     <tr>
