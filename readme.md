@@ -3,8 +3,8 @@
 
 # 插件
 <details>
-<summary>解决 `[deforum-comfy-nodes](https://github.com/XmYx/deforum-comfy-nodes)` 依赖环境问题</summary>
-   - 将我的[`requirements.txt`](https://github.com/idesign2018/Meta_IDesign/blob/master/Plugins/deforum-comfy-nodes/requirements.txt)文件替换即可
+<summary>解决 [deforum-comfy-nodes](https://github.com/XmYx/deforum-comfy-nodes) 依赖环境问题</summary>
+   - 将我的[requirements.txt](https://github.com/idesign2018/Meta_IDesign/blob/master/Plugins/deforum-comfy-nodes/requirements.txt)文件替换即可
    
 </details>
 
