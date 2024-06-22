@@ -12,6 +12,17 @@
 
 <br>
 
+
+<details>
+    <summary>解決 deforum-comfy-nodes 依賴環境問題</summary>
+
+    <ol>
+        <li>將我的 <code>requirements.txt</code> 文件替換即可</li>
+    </ol>
+</details>
+
+<br>
+
 # 我的社交媒体
 单击放大图片扫码
 <table style="border: 1px solid #9FA0A0; border-collapse: collapse; width: auto;">
