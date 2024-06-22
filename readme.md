@@ -7,7 +7,7 @@
 <summary>解决deforum-comfy-nodes依赖环境问题</summary>
 
 - 将我的[requirements.txt](https://github.com/idesign2018/Meta_IDesign/blob/master/Plugins/deforum-comfy-nodes/requirements.txt) 文件替换到你本地相应位置即可。
-- [更详细方法](https://discord.com/channels/1229997190877941913/1253606196359729172)
+- [更详细方法](https://discord.gg/ArErrjXT53)
 
 </details>
 
