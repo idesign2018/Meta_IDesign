@@ -19,9 +19,9 @@
 | 中国UP | 海外UP |
 | :---: | :---: |
 | [-zho-](https://github.com/ZHO-ZHO-ZHO)Github | [Purz](https://www.youtube.com/@PurzBeats)Youtube |
-| [yuyou-dev](https://github.com/yuyou-dev)Github | [MDMZ](https://www.youtube.com/@MDMZ)Youtube |
-| [有趣的80后程序员](https://github.com/amao2001)Github | []() |
-| [AI KSK](https://www.youtube.com/@AIKSK)Youtube | []() |
+| [yuyou-dev](https://github.com/yuyou-dev)~Github~ | [MDMZ](https://www.youtube.com/@MDMZ)Youtube |
+| [有趣的80后程序员](https://github.com/amao2001)~Github | []() |
+| [AI KSK](https://www.youtube.com/@AIKSK)<sub>Youtube<sub> | []() |
 | [杰克艾米立](https://www.youtube.com/@JackEllie)Youtube| []() |
 
 <br>
