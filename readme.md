@@ -24,6 +24,10 @@
 | [AI KSK](https://www.youtube.com/@AIKSK) <sup>Youtube<sup> | []() <sup><sup> |
 | [杰克艾米立](https://www.youtube.com/@JackEllie) <sup>Youtube<sup>| []() <sup><sup> |
 
+<a href="https://www.example.com" target="_blank" class="external-link">
+  点击这里在新标签页中打开
+  <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M..."/></svg>
+</a>
 <br>
 
 # 我的社交媒体
