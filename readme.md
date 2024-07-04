@@ -18,11 +18,11 @@
 <br>
 | 中国UP | 海外UP |
 | :---: | :---: |
-| [-zho-](https://github.com/ZHO-ZHO-ZHO) <sup>Github<sup> | [Purz](https://www.youtube.com/@PurzBeats) <sup>Youtube<sup> |
-| [yuyou-dev](https://github.com/yuyou-dev) <sup>Github<sup> | [MDMZ](https://www.youtube.com/@MDMZ) <sup>Youtube<sup> |
-| [有趣的80后程序员](https://github.com/amao2001) <sup>Github<sup> | []() <sup><sup> |
-| [AI KSK](https://www.youtube.com/@AIKSK) <sup>Youtube<sup> | []() <sup><sup> |
-| [杰克艾米立](https://www.youtube.com/@JackEllie) <sup><sup>Youtube<sup><sup>| []() <sup><sup> |
+| [-zho-](https://github.com/ZHO-ZHO-ZHO) <sup><sup>Github<sup><sup> | [Purz](https://www.youtube.com/@PurzBeats) <sup><sup>Youtube<sup><sup> |
+| [yuyou-dev](https://github.com/yuyou-dev) <sup><sup>Github<sup><sup> | [MDMZ](https://www.youtube.com/@MDMZ) <sup><sup>Youtube<sup><sup> |
+| [有趣的80后程序员](https://github.com/amao2001) <sup><sup>Github<sup><sup> | []() <sup><sup><sup><sup> |
+| [AI KSK](https://www.youtube.com/@AIKSK) <sup><sup>Youtube<sup><sup> | []() <sup><sup><sup><sup> |
+| [杰克艾米立](https://www.youtube.com/@JackEllie) <sup><sup>Youtube<sup><sup>| []() <sup><sup><sup><sup> |
 
 
 <br>
