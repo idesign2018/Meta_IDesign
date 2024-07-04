@@ -12,7 +12,17 @@
 </details>
 
 <br>
-
+# 特别鸣谢：
+国内外各大佬无私奉献，向他们致敬
+没有排名先后顺序，他们都是非常优秀的UP主
+<br>
+| 中国UP | 海外UP |
+| :---: | :---: |
+| [-zho-](https://github.com/ZHO-ZHO-ZHO) | [Purz](https://www.youtube.com/@PurzBeats) |
+| [yuyou-dev](https://github.com/yuyou-dev) | [MDMZ](https://www.youtube.com/@MDMZ) |
+| [有趣的80后程序员](https://github.com/amao2001) | []() |
+| [AI KSK](https://www.youtube.com/@AIKSK) | []() |
+| [杰克艾米立](https://www.youtube.com/@JackEllie) | []() |
 <br>
 
 # 我的社交媒体
