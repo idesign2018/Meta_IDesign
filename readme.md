@@ -17,7 +17,7 @@
 顺序不分先后，他们都是非常优秀的UP主，更多优秀UP主不定期更新
 <br>
 | 中国UP | 海外UP |
-| :---: | :---: |
+| :--- | :--- |
 | [-zho-](https://github.com/ZHO-ZHO-ZHO) <sup><sup>Github<sup><sup> | [Purz](https://www.youtube.com/@PurzBeats) <sup><sup>Youtube<sup><sup> |
 | [yuyou-dev](https://github.com/yuyou-dev) <sup><sup>Github<sup><sup> | [MDMZ](https://www.youtube.com/@MDMZ) <sup><sup>Youtube<sup><sup> |
 | [有趣的80后程序员](https://github.com/amao2001) <sup><sup>Github<sup><sup> | []() <sup><sup><sup><sup> |
