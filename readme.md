@@ -24,6 +24,8 @@
 | [有趣的80后程序员](https://github.com/amao2001) | []() |
 | [AI KSK](https://www.youtube.com/@AIKSK) | []() |
 | [杰克艾米立](https://www.youtube.com/@JackEllie) | []() |
+
+<a href="https://www.example.com" target="_blank">点击这里在新标签页中打开</a>
 <br>
 
 # 我的社交媒体
