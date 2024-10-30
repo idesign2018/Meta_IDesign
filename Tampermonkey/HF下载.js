@@ -26,7 +26,7 @@
         const callback = (mutationsList) => {
             for (const mutation of mutationsList) {
                 if (mutation.type === 'childList') {
-                    const fileRows = document.querySelectorAll('a[href*=".safetensors"], a[href*=".json"], a[href*=".txt"], a[href*=".md"], a[href*=".pt"], a[href*=".png"], a[href*=".model"], a[href*=".gitattributes"]');
+                    const fileRows = document.querySelectorAll('a[href*=".safetensors"], a[href*=".json"], a[href*=".txt"], a[href*=".md"], a[href*=".pt"], a[href*=".png"], a[href*=".model"], a[href*=".gitattributes"], a[href*=".jpg"], a[href*=".jpeg"], a[href*=".gif"]');
                     if (fileRows.length > 0) {
                         addCopyIcons(fileRows);
                     }

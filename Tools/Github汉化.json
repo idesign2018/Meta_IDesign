@@ -1,0 +1,26 @@
+{
+    "identifier": "@idesign",
+    "geometry": "700x860+1303+900",
+    "entries": [
+        {
+            "type": "Entry",
+            "content": "C:\\Users\\"
+        },
+        {
+            "type": "Text",
+            "content": "填写你电脑的用户名"
+        },
+        {
+            "type": "Entry",
+            "content": "\\AppData\\Local\\GitHubDesktop\\app-"
+        },
+        {
+            "type": "Text",
+            "content": "填写你安装Github的版本号"
+        },
+        {
+            "type": "Entry",
+            "content": "\\resources\\app"
+        }
+    ]
+}
