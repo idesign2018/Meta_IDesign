@@ -10,21 +10,28 @@
 - [更详细方法：](https://discord.gg/ArErrjXT53)进群找到该贴 > [关于deforum-comfy-nodes无法安装配置环境](https://discord.com/channels/1229997190877941913/1253606196359729172)
 
 </details>
-
 <br>
+
+
 
 # 小工具
 <details>
 <summary><b>桌面工具</b></summary>
 
-- [Github汉化预设文件](https://github.com/idesign2018/Meta_IDesign/blob/master/Tools/Github%E6%B1%89%E5%8C%96.json)
+  <ul>
+    <input type="checkbox" disabled checked>
+    <a href="https://github.com/idesign2018/Meta_IDesign/blob/master/Tools/Github%E6%B1%89%E5%8C%96.json"> Github汉化预设文件</a><br>
 
+  </ul>
 </details>
 
 <details>
 <summary><b>Tampermonkey脚本</b></summary>
+  <ul>
+    <input type="checkbox" disabled checked>
+    <a href="https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js"> HF脚本下载</a><br>
 
-- [HF脚本下载](https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js)
+  </ul>
 
 </details>
 
