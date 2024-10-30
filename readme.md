@@ -11,7 +11,19 @@
 
 </details>
 
+
+# 特别鸣谢：
+国内外各大佬无私奉献，向他们致敬。
+顺序不分先后，他们都是非常优秀的UP主，更多优秀UP主不定期更新
 <br>
+| 中国UP | 海外UP |
+| :--- | :--- |
+| [-zho-](https://github.com/ZHO-ZHO-ZHO) <sup><sup>Github<sup><sup> | [Purz](https://www.youtube.com/@PurzBeats) <sup><sup>Youtube<sup><sup> |
+| [yuyou-dev](https://github.com/yuyou-dev) <sup><sup>Github<sup><sup> | [MDMZ](https://www.youtube.com/@MDMZ) <sup><sup>Youtube<sup><sup> |
+| [有趣的80后程序员](https://github.com/amao2001) <sup><sup>Github<sup><sup> | [kijai](https://github.com/kijai) <sup><sup>Github<sup><sup> |
+| [AI KSK](https://www.youtube.com/@AIKSK) <sup><sup>Youtube<sup><sup> | []() <sup><sup><sup><sup> |
+| [杰克艾米立](https://www.youtube.com/@JackEllie) <sup><sup>Youtube<sup><sup>| []() <sup><sup><sup><sup> |
+
 
 # Tampermonkey脚本
 HF脚本
