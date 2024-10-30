@@ -15,14 +15,14 @@
 
 # 小工具
 <details>
-<summary>桌面工具</summary>
+<summary><b>桌面工具</b></summary>
 
 - [Github汉化预设文件](https://github.com/idesign2018/Meta_IDesign/blob/master/Tools/Github%E6%B1%89%E5%8C%96.json)
 
 </details>
 
 <details>
-<summary>Tampermonkey脚本</summary>
+<summary><b>Tampermonkey脚本</b></summary>
 
 - [HF脚本下载](https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js)
 
