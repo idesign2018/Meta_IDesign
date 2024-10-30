@@ -28,8 +28,8 @@
 <details>
 <summary><b>Tampermonkey脚本</b></summary>
   <ul>
-    <input type="checkbox" disabled checked>
-    <a href="https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js"> HF脚本下载</a><br>
+    <li><input type="checkbox" disabled checked>
+    <a href="https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js"> HF脚本下载</a></li>
 
   </ul>
 
