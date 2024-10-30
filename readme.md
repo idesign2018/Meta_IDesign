@@ -19,7 +19,7 @@
 <summary><b>桌面工具</b></summary>
 
   <ul>
-    <input type="checkbox" disabled checked>
+    <input type="checkbox">
     <a href="https://github.com/idesign2018/Meta_IDesign/blob/master/Tools/Github%E6%B1%89%E5%8C%96.json"> Github汉化预设文件</a><br>
 
   </ul>
