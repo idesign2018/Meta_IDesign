@@ -2,7 +2,6 @@
 欢迎查看我的[AI共享笔记](https://idesigns.notion.site/275551b858cb474a908ce6d402639769?v=010feeeb5a1d4d55b98526fce9f2e180&pvs=4)，一起交流和进步。
 
 # SD插件
-
 <details>
 <summary><b>解决deforum-comfy-nodes依赖环境问题</b></summary>
 
@@ -10,7 +9,6 @@
 - [更详细方法：](https://discord.gg/ArErrjXT53)进群找到该贴 > [关于deforum-comfy-nodes无法安装配置环境](https://discord.com/channels/1229997190877941913/1253606196359729172)
 
 </details>
-<br>
 
 # 小工具
 <details>
@@ -27,8 +25,6 @@
 
 </details>
 
-<br>
-
 # 特别鸣谢：
 国内外各大佬无私奉献，向他们致敬。
 顺序不分先后，他们都是非常优秀的UP主，更多优秀UP主不定期更新
@@ -40,8 +36,6 @@
 | [有趣的80后程序员](https://github.com/amao2001) <sup><sup>Github<sup><sup> | [kijai](https://github.com/kijai) <sup><sup>Github<sup><sup> |
 | [AI KSK](https://www.youtube.com/@AIKSK) <sup><sup>Youtube<sup><sup> | []() <sup><sup><sup><sup> |
 | [杰克艾米立](https://www.youtube.com/@JackEllie) <sup><sup>Youtube<sup><sup>| []() <sup><sup><sup><sup> |
-
-<br>
 
 # 我的社交媒体
 单击放大图片扫码
