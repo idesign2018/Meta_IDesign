@@ -11,8 +11,12 @@
 
 </details>
 
-# Tampermonkey脚本
-[HF脚本下载](https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js)
+# 小工具
+  ## 桌面工具
+    [Github汉化预设文件](https://github.com/idesign2018/Meta_IDesign/blob/master/Tools/Github%E6%B1%89%E5%8C%96.json)
+
+  ## Tampermonkey脚本
+    [HF脚本下载](https://github.com/idesign2018/Meta_IDesign/blob/master/Tampermonkey/HF%E4%B8%8B%E8%BD%BD.js)
 
 <br>
 
