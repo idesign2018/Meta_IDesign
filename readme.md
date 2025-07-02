@@ -12,7 +12,7 @@
 <details>
 <summary><b>解决MoJie Tools报错问题</b></summary>
 
-- 将我的[subcore.py](https://) 文件替换到`.\custom_nodes\comfyui-impact-subpack\modules`位置，重启ComfyUI即可。
+- 将我的[subcore.py](https://github.com/idesign2018/Meta_IDesign/blob/master/Plugins/subcore.py) 文件替换到`.\custom_nodes\comfyui-impact-subpack\modules`位置，重启ComfyUI即可。
 
 </details>
 
